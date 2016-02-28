@@ -1,0 +1,23 @@
+_repo: The-Prose-of-Alfred-Lichtenstein_5663
+creator:
+  author:
+    agent_name: Lichtenstein, Alfred
+    birthdate: 1889
+    deathdate: 1914
+    gutenberg_agent_id: '1467'
+    url: http://www.gutenberg.org/2009/agents/1467
+    wikipedia: http://de.wikipedia.org/wiki/Alfred_Lichtenstein
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+title: The Prose of Alfred Lichtenstein
+url: http://www.gutenberg.org/ebooks/5663
